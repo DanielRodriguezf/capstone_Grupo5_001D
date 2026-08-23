@@ -1,2 +1,3 @@
-# capstone_Grupo5_001D
-Daniel Rodriguez
+# Capstone_Grupo5_001D
+
+Integrantes: Daniel Rodríguez, Martina Gutiérrez y Martina Venegas
