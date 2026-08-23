@@ -1,6 +1,19 @@
-# Capstone_Grupo5_001D
+# 🚀 Capstone_Grupo5_001D
 
-Integrantes: Daniel Rodríguez, Martina Gutiérrez y Martina Venegas. \n
-Docente: Reginaldo Salinas. \n
-Instituto: DuocUC Sede Maipú. \n
-Carrera: Ingeniería en Informática.
+## 👥 Integrantes
+
+* **Daniel Rodríguez**
+* **Martina Gutiérrez**
+* **Martina Venegas**
+
+## 👨‍🏫 Docente
+
+**Reginaldo Salinas**
+
+## 🏫 Institución
+
+**Duoc UC — Sede Maipú**
+
+## 🎓 Carrera
+
+**Ingeniería en Informática**
