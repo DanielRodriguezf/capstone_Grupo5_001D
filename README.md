@@ -1,4 +1,4 @@
-# 🚀 Proyecto: PostuliChile
+# 🚀 Proyecto: ExpertiMente
 
 ## 👥 Integrantes
 
